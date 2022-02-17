@@ -1,0 +1,3 @@
+name: RubyMMobsQAddon
+version: '${project.version}'
+main: it.rubycraft.rubymmobsqaddon.RubyMMobsQAddon
